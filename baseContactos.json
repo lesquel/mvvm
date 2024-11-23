@@ -1,0 +1,20 @@
+[
+    {
+        "Name": "Juan",
+        "LastName": "Perez",
+        "Gender": "male",
+        "PhoneNumber": "(34) 5678-9012"
+    },
+    {
+        "Name": "Maria",
+        "LastName": "Rodriguez",
+        "Gender": "female",
+        "PhoneNumber": "(34) 5678-9013"
+    },
+    {
+        "Name": "Pedro",
+        "LastName": "Lopez",
+        "Gender": "male",
+        "PhoneNumber": "(34) 5678-9014"
+    }
+]
